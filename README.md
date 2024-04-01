@@ -8,7 +8,7 @@ as well as add any configuration files or scripts you wrote for the assignment t
 
 I will be completing Option B: Shell Scripting.
 
-2: 
+2: Command substitution allows you to execute a command that has the output of that command replace the text of the command. for example:
 - echo "The file <hello.txt> contains: $(cat hello.txt)"
 - echo "The directory you are currently in is: $(pwd)"
 
